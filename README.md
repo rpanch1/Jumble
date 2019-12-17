@@ -1,5 +1,4 @@
 # Jumble
-Data Structure - Project 4
 
 This project usues a clever application of hash tables to solve "word jumble" puzzles. You have probably seen these puzzles in the newspaper. The program is called Jumble and requires a single command-line argument specifying a dictionary file.
 
