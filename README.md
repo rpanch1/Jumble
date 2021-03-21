@@ -4,7 +4,7 @@ This project usues a clever application of hash tables to solve "word jumble" pu
 
 ./jumble dictionary-small.txt OR ./jumble dictionary-big.txt
 
-After the program sets up its internal data structures, it enters a simple interactive loop which behasves as follows: 
+After the program sets up its internal data structures, it enters a simple interactive loop which behaves as follows: 
 
  - The user either enters a string of characters (jumbled version) or types ctrl-d to terminate the interactive loop.
  
